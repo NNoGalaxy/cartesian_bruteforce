@@ -9,5 +9,7 @@ for length in range(1000):
         w = "".join(i)
         print(w)
         
-    
-    
+        
+        
+#For reference and understandation, read about itertools.product() and the cartesian function on wikipedia. 
+#Let me know how this can be improved, thank you
